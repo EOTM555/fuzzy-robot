@@ -1,0 +1,19 @@
+{
+  "name": "fuzzy-robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EOTM555/fuzzy-robot.git"
+  },
+  "author": "Ehab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EOTM555/fuzzy-robot/issues"
+  },
+  "homepage": "https://github.com/EOTM555/fuzzy-robot#readme"
+}
